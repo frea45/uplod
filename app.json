@@ -22,7 +22,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": "5899975315:AAHjAmYpAPR3SjfGYf82bGXIf3sB0WnmWnc"
+      "value": ""
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -34,7 +34,7 @@
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": "mongodb+srv://hppavan271:hppavan271@cluster0.lubxqao.mongodb.net/?retryWrites=true&w=majority"
+      "value": ""
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
