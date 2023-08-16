@@ -13,8 +13,8 @@
     "remote",
     "uploader"
   ],
-  "website": "https://github.com/LISA-KOREA",
-  "repository": "https://github.com/LISA-KOREA/UPLOADER-BOT-V3",
+  "website": "https://github.com/monu875",
+  "repository": "https://github.com/monu875/RS-UPLOAD",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -22,7 +22,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string. @BotFather",
-      "value": ""
+      "value": "5899975315:AAHjAmYpAPR3SjfGYf82bGXIf3sB0WnmWnc"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -34,7 +34,7 @@
     },
     "DATABASE_URL": {
       "description": "Your Mongodb Url",
-      "value": ""
+      "value": "mongodb+srv://hppavan271:hppavan271@cluster0.lubxqao.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
@@ -54,7 +54,7 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "ReRajbharbot"
     }
   },
   "addons": [
