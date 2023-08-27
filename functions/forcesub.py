@@ -28,7 +28,7 @@ async def handle_force_subscribe(bot, message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("✴️ Join My Update Channel ✴️", url=https://linx.cc/knGB #url=invite_link.invite_link)
+                        InlineKeyboardButton("✴️ Join My Update Channel ✴️", url=https://linx.cc/knGB.invite_link #url=invite_link.invite_link)
                     ]
                 ]
             ),
