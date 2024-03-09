@@ -23,7 +23,7 @@ class Config(object):
 
     DOWNLOAD_LOCATION = "./DOWNLOADS"
 
-    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "")
+    UPDATE_CHANNEL = os.environ.get("UPDATE_CHANNEL", "ir_botz")
 
     MAX_FILE_SIZE = 4194304000
 
@@ -55,6 +55,6 @@ class Config(object):
 
     OWNER_ID = int(os.environ.get("OWNER_ID", "763990585"))
 
-    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "")
+    UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "ir_botz")
     
     BOT_USERNAME = os.environ.get("BOT_USERNAME", "fi2li123robot")
